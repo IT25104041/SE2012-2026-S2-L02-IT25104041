@@ -1,4 +1,4 @@
-# SE2031 Practical 2 - Student Management System
+# SE2012 Practical 2 - Student Management System
 
 ## Repository Context
 This repository is for **SE2012 Java Programming - Practical 2**.
